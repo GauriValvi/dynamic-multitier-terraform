@@ -60,4 +60,4 @@ mysql -h <rds-endpoint> -u admin -p
 💡 Author
 Gauri Valvi
 🔗 LinkedIn: https://www.linkedin.com/in/gauri-valvi/
-📧 Email: [gaurivalvi@gmail.com]
+📧 Email: gaurivalvi@gmail.com
