@@ -50,6 +50,7 @@ terraform init
 terraform validate
 terraform plan
 terraform apply
+
 🔎 Access URLs
 ALB Endpoint (Web App):
 http://<your-alb-dns>
